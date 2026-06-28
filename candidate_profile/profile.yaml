@@ -1,0 +1,63 @@
+candidate:
+  full_name: Alex Morgan
+  current_location: San Francisco, CA
+  work_authorization: US Citizen
+  willing_to_relocate: true
+  open_to_remote: true
+
+experience:
+  years_of_experience: 5.0
+  current_role: Senior Product Manager
+  current_company: Acme Technologies
+
+preferences:
+  target_roles:
+    - Product Manager
+    - Senior Product Manager
+    - Group Product Manager
+  preferred_industries:
+    - SaaS
+    - Fintech
+    - Healthcare Technology
+  preferred_locations:
+    - San Francisco, CA
+    - New York, NY
+    - Remote
+  minimum_match_score: 75
+  preferred_company_stages:
+    - Series A
+    - Series B
+    - Series C
+    - Growth
+  reject_keywords:
+    - unpaid
+    - internship
+    - junior
+
+skills:
+  product_skills:
+    - Product Strategy
+    - Roadmap Planning
+    - User Research
+    - A/B Testing
+    - Agile
+    - OKRs
+  technical_skills:
+    - SQL
+    - Python
+    - API Design
+    - Data Analysis
+  tools:
+    - Jira
+    - Confluence
+    - Figma
+    - Mixpanel
+    - Looker
+
+education:
+  degree: Bachelor of Science in Computer Science
+  university: University of California Berkeley
+  graduation_year: 2019
+
+resume:
+  resume_filename: alex_morgan_resume.pdf
